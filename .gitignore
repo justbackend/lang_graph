@@ -219,3 +219,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 langchain_academy/module-6/deployment/docker-compose.yml
+.idea
